@@ -14,4 +14,4 @@ if (!firebase.apps.length) {
 		}
 	)
 }
-export default firebase3
+export default firebase
